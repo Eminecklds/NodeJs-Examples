@@ -1,0 +1,15 @@
+{
+  "name": "nodeornek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodeornek1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ornek1ac":"node nodeornek1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
